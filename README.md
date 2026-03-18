@@ -1,4 +1,4 @@
-# Olá,eu sou Davi!
+# Olá,eu sou Davi!👋
 
 Sou estudante de Ciência da Computação na UFERSA e técnico em Desenvolvimento de Sistemas. Iniciante e amante da tecnologia e programação, busco aprendizagem e desenvolvimento na área.
 ### 🚀 Alguns Aplicações em Desenvolvimento:
