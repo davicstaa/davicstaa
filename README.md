@@ -1,9 +1,6 @@
 # Olá,eu sou Davi!👋
 
 Sou estudante de Ciência da Computação na UFERSA e técnico em Desenvolvimento de Sistemas. Iniciante e amante da tecnologia e programação, busco aprendizagem e desenvolvimento na área.
-### 🚀 Alguns Aplicações em Desenvolvimento:
-* 💧 **Água Control:** Aplicação web responsiva para controle e gestão financeira de consumo de água, com dashboards analíticos, controle de pagamentos e painel multiusuário.
-* 🏋️ **FitLife:** Plataforma de acompanhamento de saúde e condicionamento físico, focada no registro contínuo e tracking de treinos, dieta e evolução de peso.
 ### 💻 Minhas Ferramentas e Habilidades:
 Iniciei no mundo da progrmação em 2023 ainda não tenho uma linguagem definida, então abaixo estão ferramentas que já utilizei. Acredito que, dominando a lógica, a sintaxe de qualquer linguagem é apenas um detalhe. Para todo o resto, tenho muita facilidade em ler documentações, pesquisar e aprender exatamente o que for necessário para tirar o projeto do papel e resolver o problema.
 
